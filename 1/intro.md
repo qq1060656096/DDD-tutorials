@@ -81,6 +81,6 @@ DDD首先不是关于技术，而是关于讨论、聆听、理解、发现和�
 
 ### 5. 如何评估你的项目是否适合DDD?
 
-![DDD计分卡]("images/score.0.jpg")
-![DDD计分卡]("images/score.1.jpg")
+![DDD计分卡](images/score.0.jpg)
+![DDD计分卡](images/score.1.jpg)
 
